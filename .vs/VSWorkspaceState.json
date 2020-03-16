@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Homestead",
+    "\\Homestead\\code",
+    "\\Homestead\\code\\App",
+    "\\Homestead\\code\\App\\app",
+    "\\Homestead\\code\\App\\app\\Http",
+    "\\Homestead\\code\\App\\app\\Http\\Controllers",
+    "\\Homestead\\code\\App\\app\\Providers",
+    "\\Homestead\\code\\App\\routes",
+    "\\Homestead\\code\\App\\tests",
+    "\\Homestead\\code\\App\\tests\\Feature"
+  ],
+  "SelectedNode": "\\Homestead\\code\\App\\tests\\Feature\\HomeControllerTest.php",
+  "PreviewInSolutionExplorer": false
+}
